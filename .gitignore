@@ -1,0 +1,4 @@
+node_modules/
+gulp-tasks/
+gulpfile.js
+INSTALL.sh
